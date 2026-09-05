@@ -1,24 +1,4 @@
-# Virtual Environment
 .venv/
-
-# Python
+.venv2/
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-
-# Jupyter
-.ipynb_checkpoints/
-
-# VS Code
-.vscode/
-
-# OS files
-.DS_Store
-Thumbs.db
-
-# CatBoost files
-catboost_info/
-
-# Kaggle datasets (optional)
-data/
